@@ -23,7 +23,7 @@ For Ready Made designs:
 
 1: <a href="https://freepik.com/">Freepik</a>
 
-2: <a href="http://photoadking.com/">PhotoADKing</a>
+2: <a href="https://photoadking.com/">PhotoADKing</a>
 
 For Free Icons:
 
@@ -43,7 +43,7 @@ For Typography Ideas:
 
 1: <a href="https://www.fontsquirrel.com/">Font Squirrel</a>
 
-2: <a href="http://www.losttype.com/">Last Type</a>
+2: <a href="https://www.losttype.com/">Last Type</a>
 
 For Image Editing:
 
